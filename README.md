@@ -26,7 +26,7 @@ This project demonstrates a simple Arduino circuit that controls three LEDs usin
 ## 📊 Circuit Diagram
 
 ### Circuit Overview
-![Circuit Initial State](https://i.imgur.com/placeholder1.png)
+![Circuit Initial State](https://github.com/itsabalkhail/Arduino-Uno-3-LED-3-Buttons/blob/main/Screenshot%202025-07-08%20154954.png?raw=true)
 
 The circuit consists of:
 - Three LEDs connected to digital pins 13, 12, and 8
