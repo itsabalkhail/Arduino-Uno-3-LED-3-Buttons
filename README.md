@@ -45,7 +45,7 @@ The circuit consists of:
 *LED 1 (Pin 13) is turned ON after pressing Button 1*
 
 #### State 3: Multiple LEDs Active
-![Circuit State 3](https://i.imgur.com/placeholder3.png)
+![Circuit State 3](https://github.com/itsabalkhail/Arduino-Uno-3-LED-3-Buttons/blob/main/Screenshot%202025-07-08%20165203.png?raw=true)
 *Multiple LEDs can be controlled independently*
 
 
