@@ -48,12 +48,6 @@ The circuit consists of:
 ![Circuit State 3](https://i.imgur.com/placeholder3.png)
 *Multiple LEDs can be controlled independently*
 
-#### State 4: Different LED Combination
-![Circuit State 4](https://i.imgur.com/placeholder4.png)
-*Each button press toggles its corresponding LED, creating different combinations*
-
-### Circuit Behavior
-The images above demonstrate the different states of the LEDs as they are toggled by their respective buttons. Each button controls one LED independently, allowing for 8 different possible combinations (2³ = 8 states).
 
 ## 🔌 Pin Configuration
 
