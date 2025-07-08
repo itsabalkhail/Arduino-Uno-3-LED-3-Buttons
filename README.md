@@ -37,11 +37,11 @@ The circuit consists of:
 ### Circuit Operation States
 
 #### State 1: Initial State - All LEDs OFF
-![Circuit State 1](https://i.imgur.com/placeholder1.png)
+![Circuit State 1](https://github.com/itsabalkhail/Arduino-Uno-3-LED-3-Buttons/blob/main/Screenshot%202025-07-08%20154954.png?raw=true)
 *All LEDs are in OFF state at startup*
 
 #### State 2: First LED Activated
-![Circuit State 2](https://i.imgur.com/placeholder2.png)
+![Circuit State 2](https://github.com/itsabalkhail/Arduino-Uno-3-LED-3-Buttons/blob/main/Screenshot%202025-07-08%20154911.png?raw=true)
 *LED 1 (Pin 13) is turned ON after pressing Button 1*
 
 #### State 3: Multiple LEDs Active
